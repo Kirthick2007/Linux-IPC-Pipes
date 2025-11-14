@@ -87,7 +87,7 @@ write(wfd,buff,n);
 
 
 ## OUTPUT
-<img width="985" height="252" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/62b1605e-6e9e-490f-836b-c1e73ff55869" />
+<img width="539" height="103" alt="image" src="https://github.com/user-attachments/assets/688c60fa-feb6-4491-a28e-b1039e6b3ef7" />
 
 
 
@@ -109,7 +109,7 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-<img width="1013" height="259" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/38d3a177-d4a4-4fa6-b307-eab6d559dab8" />
+<img width="752" height="149" alt="image" src="https://github.com/user-attachments/assets/330ccaff-0e96-4e21-bb62-9a34263f2dda" />
 
 
 
